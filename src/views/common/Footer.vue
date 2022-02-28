@@ -5,13 +5,11 @@
         <div class="control">
           <div class="tags has-addons">
             <a
-              class="tag is-dark"
-              href="https://github.com/Aicirou/goindex-theme-acrou"
-            >goindex-theme-acrou</a>
+              class="tag is-dark">Hosted by SiGLA Team</a>
             <span class="tag is-light">
-              MIT &nbsp;
+              Castle &nbsp;
               <span class="icon">
-                <i class="fa fa-github"></i>
+                <i class="fa fa-alien"></i>
               </span>
             </span>
           </div>
